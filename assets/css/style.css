@@ -1,0 +1,9 @@
+i.con_nav{
+    width: 10px;
+    height: 10px;
+}
+  
+.navbar{
+    position: absolute;
+    top: 0px; left: 0px;
+}
