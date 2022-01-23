@@ -1,8 +1,7 @@
-i.con_nav{
-    width: 10px;
-    height: 10px;
+body{
+    font-family: 'Roboto Condensed', sans-serif;
 }
-  
+
 .navbar{
     position: absolute;
     top: 0px; left: 0px;
