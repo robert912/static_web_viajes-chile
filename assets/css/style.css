@@ -6,3 +6,7 @@ body{
     position: absolute;
     top: 0px; left: 0px;
 }
+
+.card-img-top{
+    height: 150px;
+}
